@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/franciscolopez/Documents/React/treelang-client'
+let g:netrw_dirhist_8='/Users/franciscolopez/Femtasy/femtasy-app'
+let g:netrw_dirhist_7='/Users/franciscolopez/Femtasy/femtasy-app/src'
+let g:netrw_dirhist_6='/Users/franciscolopez/Femtasy/femtasy-app'
+let g:netrw_dirhist_5='/Users/franciscolopez/Femtasy/femtasy-app/src'
+let g:netrw_dirhist_4='/Users/franciscolopez/Femtasy/femtasy-app'
+let g:netrw_dirhist_3='/Users/franciscolopez/Femtasy/femtasy-app/src'
+let g:netrw_dirhist_2='/Users/franciscolopez/Femtasy/femtasy-app/src/sw'
+let g:netrw_dirhist_1='/Users/franciscolopez/Femtasy/femtasy-app/src'
